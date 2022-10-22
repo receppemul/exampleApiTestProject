@@ -1,0 +1,18 @@
+{
+  "id": 12344321,
+  "category": {
+    "id": 134256,
+    "name": "Cats"
+  },
+  "name": "British Cat",
+  "photoUrls": [
+    "shorturl.at/lmxJT"
+  ],
+  "tags": [
+    {
+      "id": 12312324,
+      "name": "Cats"
+    }
+  ],
+  "status": "available"
+}
