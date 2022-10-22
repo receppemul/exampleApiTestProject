@@ -3,12 +3,12 @@
 ## General info
 This project is basic api test project.
 
-##Prerequisites
+## Prerequisites
 1. JDK 1.8 or above
 2. Maven 3 or above
 3. Authentication is not required for the api
 
-###Language
+### Language
 1. JAVA
 
 ### Used Tools and Frameworks
