@@ -22,7 +22,7 @@ This project is basic api test project.
 https://petstore.swagger.io/
 ```
 
-##Run Tests
+## Run Tests
 ```
 mvn clean test
 ```
